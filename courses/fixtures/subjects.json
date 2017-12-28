@@ -1,0 +1,58 @@
+[
+{
+  "model": "courses.subject",
+  "pk": 1,
+  "fields": {
+    "title": "Matematyka",
+    "slug": "matematyka"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 2,
+  "fields": {
+    "title": "Mechanika",
+    "slug": "mechanika"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 3,
+  "fields": {
+    "title": "Fizyka",
+    "slug": "fizyka"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 4,
+  "fields": {
+    "title": "Informatyka",
+    "slug": "informatyka"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 5,
+  "fields": {
+    "title": "Mechnaika",
+    "slug": "mechnaika"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 6,
+  "fields": {
+    "title": "Wytrzyma\u0142o\u015b\u0107 Materia\u0142\u00f3w",
+    "slug": "wytrzymalosc-materialow"
+  }
+},
+{
+  "model": "courses.subject",
+  "pk": 7,
+  "fields": {
+    "title": "Termodynamika",
+    "slug": "termodynamika"
+  }
+}
+]
